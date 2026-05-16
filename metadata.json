@@ -1,0 +1,6 @@
+{
+  "name": "Smart Leads Dashboard",
+  "description": "A full-stack lead management dashboard with JWT authentication, CRUD operations, advanced filtering, and pagination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
